@@ -29,10 +29,6 @@ A Conta PREGCG é uma única conta de credenciamento digital por usuário e senh
 
 Uma conta criada no CONTA PREFCG  a população terá acesso rápido e seguro aos serviços oferecidos pela Prefeitura de Campo Grande. Desta forma, esta conta única facilita o acesso aos sistemas com a utilização de um só meio de autenticação e credenciamento, dispensando o uso de vários usuários e senhas para o acesso de cada sistema da prefeitura.
 
-Para `criar sua Conta PREFCG`_, basta informar alguns dados pessoais e criar sua senha.
-
-.. _`criar sua Conta PREFCG` : _faq/contaacesso.html
-
 .. raw:: html
    
    <div id=accordion>
@@ -64,6 +60,66 @@ Para `criar sua Conta PREFCG`_, basta informar alguns dados pessoais e criar sua
 .. raw:: html
 
    </div>
+   <h3>Como criar uma conta PREFCG?</h3>
+   <div>
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Como criar uma conta PREFCG?
+
+- Para criar sua conta, clique em “Criar Conta”</p>
+
+.. figure:: _img/criar_conta_1.png
+   :align: center
+   :alt:
+
+ - Preencha os dados solicitados, como: Nome, Sobrenome, E-mail, CPF e Senha e clique no botão verde “CRIAR CONTA”.
+              
+.. figure:: _img/criar_conta_2.png
+   :align: center
+   :alt:
+
+- Após clicar no botão “CRIAR CONTA”, o sistema enviará um e-mail para ativação da conta. </p>
+
+.. figure:: _img/criar_conta_3.png
+   :align: center
+   :alt:
+
+.. raw:: html
+
+   </div>
+   <h3>Como validar a conta criada no PREFCG?</h3>
+   <div>
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Como validar a conta criada no PREFCG?
+
+- Será enviado ao e-mail cadastrado, um link de confirmação. O envio do e-mail de confirmação é estimado em até 30 minutos.
+
+- Atenção! Verifique as pastas de “Caixa de Entrada”, “Spam” e/ou “Lixo Eletrônico” e clique no link para validar a conta.
+
+.. figure:: _img/validar_conta_1.png
+   :align: center
+   :alt:
+
+.. raw:: html
+
+   </div>
+   <h3>Como acessar minha conta PREFCG?</h3>
+   <div>
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Como acessar minha conta PREFCG?
+
+- Para acessar a conta, preencha os dados solicitados: CPF e Senha (previamente cadastrados e validados) e em seguida clique em “Acessar”.
+
+.. raw:: html
+
+   </div>
+   </div>
+
 
 
 
