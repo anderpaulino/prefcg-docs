@@ -67,7 +67,7 @@ Uma conta criada no CONTA PREFCG  a população terá acesso rápido e seguro ao
    :maxdepth: 1
    :caption: Como criar uma conta PREFCG?
 
-- Para criar sua conta, clique em “Criar Conta”</p>
+- Para criar sua conta, clique em “Criar Conta”.
 
 .. figure:: _img/criar_conta_1.png
    :align: center
@@ -79,7 +79,7 @@ Uma conta criada no CONTA PREFCG  a população terá acesso rápido e seguro ao
    :align: center
    :alt:
 
-- Após clicar no botão “CRIAR CONTA”, o sistema enviará um e-mail para ativação da conta. </p>
+- Após clicar no botão “CRIAR CONTA”, o sistema enviará um e-mail para ativação da conta.
 
 .. figure:: _img/criar_conta_3.png
    :align: center
@@ -115,23 +115,12 @@ Uma conta criada no CONTA PREFCG  a população terá acesso rápido e seguro ao
 
 - Para acessar a conta, preencha os dados solicitados: CPF e Senha (previamente cadastrados e validados) e em seguida clique em “Acessar”.
 
+.. figure:: _img/acessar_conta_1.png
+   :align: center
+   :alt:
+
 .. raw:: html
 
    </div>
    </div>
 
-
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
