@@ -41,6 +41,7 @@ Uma conta criada no CONTA PREFCG  a população terá acesso rápido e seguro ao
    
 
 - Para recuperar sua senha, clique em “Esqueci minha senha”.
+
 .. figure:: _img/recuperar_senha_1.png
    :align: center
    :alt:   
@@ -73,7 +74,7 @@ Uma conta criada no CONTA PREFCG  a população terá acesso rápido e seguro ao
    :align: center
    :alt:
 
- - Preencha os dados solicitados, como: Nome, Sobrenome, E-mail, CPF e Senha e clique no botão verde “CRIAR CONTA”.
+- Preencha os dados solicitados, como: Nome, Sobrenome, E-mail, CPF e Senha e clique no botão verde “CRIAR CONTA”.
               
 .. figure:: _img/criar_conta_2.png
    :align: center
