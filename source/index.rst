@@ -28,7 +28,7 @@ Dúvidas Frequentes da Conta PREFCG
 
 A Conta PREGCG é uma única conta de credenciamento digital por usuário e senha que possibilita ao cidadão ter acesso a um conjunto de serviços digitais, disponibilizados pela Prefeitura de Campo Grande, em qualquer dispositivo eletrônico que permita a navegação pela internet (celulares, tablets, laptops e computadores).
 
-Com uma conta criada no CONTA PREFCG o munícipe terá acesso rápido e seguro aos serviços oferecidos pela Prefeitura de Campo Grande. Desta forma, esta conta única facilita o acesso aos sistemas com a utilização de um só meio de autenticação e credenciamento, dispensando o uso de vários usuários e senhas para o acesso de cada sistema da prefeitura.
+Com uma conta criada no CONTA PREFCG o munícipe terá acesso rápido e seguro aos serviços oferecidos pela Prefeitura de Campo Grande. Desta forma, esta conta única facilita o acesso aos sistemas com a utilização de um só meio de autenticação e credenciamento, dispensando o uso de vários usuários e senhas para o acesso a cada sistema da prefeitura.
 
 .. raw:: html
    
